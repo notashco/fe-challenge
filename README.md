@@ -27,12 +27,19 @@ Please provide a link to a public git repository (e.g., Github) that contains th
 ## Evaluation Criteria
 Correctness: Does the app meet the requirements outlined above?
 
-Code quality: Is the code easy to read and understand? Is it modular and reusable? Are best practices followed?
+**Code quality: **
+- Is the code easy to read and understand? 
+- Is it modular and reusable?
+- Are best practices followed?
 
-User Experience: Does the app look good and work well on various devices? Is it easy to use?
+**User Experience: **
+- Does the app look good and work well on various devices?
+- Is it easy to use?
 
-Creativity: Did the developer add anything extra or unique to the app?
+**Creativity: **
+- Did the developer add anything extra or unique to the app?
 
-Attention to detail: Did the developer follow the requirements closely and pay attention to small details?
+**Attention to detail: **
+- Did the developer follow the requirements closely and pay attention to small details?
 
 Happy codding! :tada: :tada: :tada:
