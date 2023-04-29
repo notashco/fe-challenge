@@ -25,7 +25,8 @@ This section is not mandatory, but you can implement them to get bonus points
 Please provide a link to a public git repository (e.g., Github) that contains the source code for your solution. In addition, please provide instructions on how to run the app locally.
 
 ## Evaluation Criteria
-Correctness: Does the app meet the requirements outlined above?
+**Correctness:**
+- Does the app meet the requirements outlined above?
 
 **Code quality:**
 - Is the code easy to read and understand? 
